@@ -9,6 +9,8 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript. This proje
 - Responsive layout for desktop and mobile
 - Clean and classic design
 
+https://calculatejsew.netlify.app
+
 ## 📂 Project Structure
 
 - `index.html` – Main structure of the calculator
