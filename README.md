@@ -11,8 +11,7 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript. This proje
 
 ## 🚀 Live Demo
 
-[Click here to view the calculator]([https://your-live-demo-link.com](https://calculatejsew.netlify.app
-))
+[Click here to view the calculator]([https://calculatejsew.netlify.app)]()
 
 ## 📂 Project Structure
 
